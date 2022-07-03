@@ -1,0 +1,26 @@
+.md-typeset h1 {
+font-size: 2.5em;
+font-weight: 900;
+}
+
+.md-typeset h2 {
+    font-weight: 600;
+    letter-spacing: -.01em;
+}
+
+.md-typeset {
+    font-size: .76rem;
+    line-height: 1.6;
+}
+
+.md-typeset ul {
+    list-style-type: square;
+}
+
+.md-header__topic:first-child {
+    font-weight: 500;
+}
+
+.mermaid {
+    font-size: 10px;
+}

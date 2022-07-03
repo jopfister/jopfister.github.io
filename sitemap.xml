@@ -1,33 +1,78 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-     <loc>http://www.joachimpfister.net/</loc>
-     <lastmod>2018-11-29</lastmod>
-     <changefreq>daily</changefreq>
+         <loc>http://www.joachimpfister.net/</loc>
+         <lastmod>2022-07-03</lastmod>
+         <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>http://www.joachimpfister.net/uxr/</loc>
-     <lastmod>2018-11-29</lastmod>
-     <changefreq>daily</changefreq>
+         <loc>http://www.joachimpfister.net/cv_education/</loc>
+         <lastmod>2022-07-03</lastmod>
+         <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>http://www.joachimpfister.net/uxr_portfolio/</loc>
-     <lastmod>2018-11-29</lastmod>
-     <changefreq>daily</changefreq>
+         <loc>http://www.joachimpfister.net/cv_jobs/</loc>
+         <lastmod>2022-07-03</lastmod>
+         <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>http://www.joachimpfister.net/cv_education/</loc>
-     <lastmod>2018-11-29</lastmod>
-     <changefreq>daily</changefreq>
+         <loc>http://www.joachimpfister.net/process/</loc>
+         <lastmod>2022-07-03</lastmod>
+         <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>http://www.joachimpfister.net/cv_jobs/</loc>
-     <lastmod>2018-11-29</lastmod>
-     <changefreq>daily</changefreq>
+         <loc>http://www.joachimpfister.net/publications/</loc>
+         <lastmod>2022-07-03</lastmod>
+         <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>http://www.joachimpfister.net/publications/</loc>
-     <lastmod>2018-11-29</lastmod>
-     <changefreq>daily</changefreq>
+         <loc>http://www.joachimpfister.net/resources/</loc>
+         <lastmod>2022-07-03</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>http://www.joachimpfister.net/skills/</loc>
+         <lastmod>2022-07-03</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>http://www.joachimpfister.net/toolbox/</loc>
+         <lastmod>2022-07-03</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>http://www.joachimpfister.net/uxr_portfolio_ERP/</loc>
+         <lastmod>2022-07-03</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>http://www.joachimpfister.net/uxr_portfolio_IR/</loc>
+         <lastmod>2022-07-03</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>http://www.joachimpfister.net/uxr_portfolio_cloud/</loc>
+         <lastmod>2022-07-03</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>http://www.joachimpfister.net/uxr_portfolio_informationmgmt/</loc>
+         <lastmod>2022-07-03</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>http://www.joachimpfister.net/uxr_portfolio_overview/</loc>
+         <lastmod>2022-07-03</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>http://www.joachimpfister.net/uxr_portfolio_servicedesign/</loc>
+         <lastmod>2022-07-03</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>http://www.joachimpfister.net/uxr_portfolio_teamsport/</loc>
+         <lastmod>2022-07-03</lastmod>
+         <changefreq>daily</changefreq>
     </url>
 </urlset>
